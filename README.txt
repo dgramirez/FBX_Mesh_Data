@@ -1,6 +1,7 @@
 #FBX_MESH_DATA
 
-This tool was initially created by Derrick G. Ramriez, for a class "Project and Portfolio II". The design of this tool was to extract FBX data into a file, so it can be read in without the need to compact the vertices/indices.
+This tool was initially created by Derrick G. Ramriez, for a class "Project and Portfolio II". 
+The design of this tool was to extract FBX data into a file, so it can be read in without the need to compact the vertices/indices.
 
 The structure of the data, ".FDM" file extension, is as follows:
 
